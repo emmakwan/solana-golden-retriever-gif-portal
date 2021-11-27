@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/solana-golden-retriever-gif-portal/static/css/main.058e24d9.chunk.css",
+    "main.js": "/solana-golden-retriever-gif-portal/static/js/main.b1d8c023.chunk.js",
+    "main.js.map": "/solana-golden-retriever-gif-portal/static/js/main.b1d8c023.chunk.js.map",
+    "runtime-main.js": "/solana-golden-retriever-gif-portal/static/js/runtime-main.b2ec32c5.js",
+    "runtime-main.js.map": "/solana-golden-retriever-gif-portal/static/js/runtime-main.b2ec32c5.js.map",
+    "static/js/2.228e3846.chunk.js": "/solana-golden-retriever-gif-portal/static/js/2.228e3846.chunk.js",
+    "static/js/2.228e3846.chunk.js.map": "/solana-golden-retriever-gif-portal/static/js/2.228e3846.chunk.js.map",
+    "index.html": "/solana-golden-retriever-gif-portal/index.html",
+    "static/css/main.058e24d9.chunk.css.map": "/solana-golden-retriever-gif-portal/static/css/main.058e24d9.chunk.css.map",
+    "static/js/2.228e3846.chunk.js.LICENSE.txt": "/solana-golden-retriever-gif-portal/static/js/2.228e3846.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b2ec32c5.js",
+    "static/js/2.228e3846.chunk.js",
+    "static/css/main.058e24d9.chunk.css",
+    "static/js/main.b1d8c023.chunk.js"
+  ]
+}
